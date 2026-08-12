@@ -1,4 +1,3 @@
-<img width="692" height="511" alt="arduino" src="https://github.com/user-attachments/assets/85b86404-5013-4f0b-a258-4634b55eae31" />
 # Alcohol Detection and Vehicle Locking System
 
 **Internet of Things Project**
