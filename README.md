@@ -1,3 +1,4 @@
+<img width="692" height="511" alt="arduino" src="https://github.com/user-attachments/assets/85b86404-5013-4f0b-a258-4634b55eae31" />
 # Alcohol Detection and Vehicle Locking System
 
 **Internet of Things Project**
@@ -51,7 +52,8 @@ microcontroller activates the relay, which cuts power to the DC motor —
 preventing the vehicle from moving — and switches the red LED on as a
 visual alert. If the reading is within the safe range, the green LED
 stays on and the motor remains powered.
-
+## Block Diagram
+<img width="914" height="473" alt="block diagram" src="https://github.com/user-attachments/assets/0938f3ff-6de4-4140-b100-0db6c35d59e2" />
 ## Components
 
 | Component | Role |
@@ -64,7 +66,7 @@ stays on and the motor remains powered.
 | **Green / Red LED** | Visual indicators — green for safe, red for alcohol detected |
 
 ## Working
-
+<img width="692" height="511" alt="arduino" src="https://github.com/user-attachments/assets/c6d38d06-5b0e-413b-8c95-c58962abc715" />
 The MQ-3 sensor continuously outputs an analog value read on Arduino pin
 `A0`. The Arduino compares this value against a threshold of **350**:
 
